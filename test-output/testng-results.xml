@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-05-12T11:01:22 IST" name="Default suite" finished-at="2022-05-12T11:01:22 IST" duration-ms="139">
+    <groups>
+    </groups>
+    <test started-at="2022-05-12T11:01:22 IST" name="Default test" finished-at="2022-05-12T11:01:22 IST" duration-ms="139">
+      <class name="Base">
+        <test-method is-config="true" signature="click()[pri:0, instance:Base@47d90b9e]" started-at="2022-05-12T11:01:22 IST" name="click" finished-at="2022-05-12T11:01:22 IST" duration-ms="39" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- click -->
+        <test-method signature="tr1()[pri:0, instance:Base@47d90b9e]" started-at="2022-05-12T11:01:22 IST" name="tr1" finished-at="2022-05-12T11:01:22 IST" duration-ms="18" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tr1 -->
+        <test-method is-config="true" signature="click1()[pri:0, instance:Base@47d90b9e]" started-at="2022-05-12T11:01:22 IST" name="click1" finished-at="2022-05-12T11:01:22 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- click1 -->
+      </class> <!-- Base -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
